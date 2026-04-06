@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/colis/static/css/main.93699dd5.css",
+    "main.js": "/colis/static/js/main.9f344bcb.js",
+    "static/js/453.825386d9.chunk.js": "/colis/static/js/453.825386d9.chunk.js",
+    "index.html": "/colis/index.html",
+    "main.93699dd5.css.map": "/colis/static/css/main.93699dd5.css.map",
+    "main.9f344bcb.js.map": "/colis/static/js/main.9f344bcb.js.map",
+    "453.825386d9.chunk.js.map": "/colis/static/js/453.825386d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93699dd5.css",
+    "static/js/main.9f344bcb.js"
+  ]
+}
